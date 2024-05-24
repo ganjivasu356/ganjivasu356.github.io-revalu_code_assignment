@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f72645f8.css",
-    "main.js": "/static/js/main.9008684f.js",
-    "static/js/453.2164695d.chunk.js": "/static/js/453.2164695d.chunk.js",
-    "static/media/vasuProfile.jpg": "/static/media/vasuProfile.39c090d74f42ef94d7f0.jpg",
-    "static/media/filter_vintage.svg": "/static/media/filter_vintage.60acd773510ca580165bf34dee1f424f.svg",
-    "index.html": "/index.html",
-    "static/media/cloud_download.svg": "/static/media/cloud_download.31c016f67d136b59d43e2cf33d1a2eda.svg",
-    "static/media/create_foldersvg.svg": "/static/media/create_foldersvg.c79f22efb99297808d555f633feaa435.svg",
-    "static/media/delete.svg": "/static/media/delete.5dea5c232eb4bd3492a73efcc498f876.svg",
-    "static/media/folder.svg": "/static/media/folder.10767809a1a8d7edd639598c6224c3bf.svg",
-    "static/media/keyboard_arrow_down.svg": "/static/media/keyboard_arrow_down.ba4b3f743d15db301277f5b4d8bcbd7c.svg",
-    "static/media/arrow_forward.svg": "/static/media/arrow_forward.e0b4b2859affcea3b96dc230a8d0f2aa.svg",
-    "main.f72645f8.css.map": "/static/css/main.f72645f8.css.map",
-    "main.9008684f.js.map": "/static/js/main.9008684f.js.map",
-    "453.2164695d.chunk.js.map": "/static/js/453.2164695d.chunk.js.map"
+    "main.css": "/revalu_code_assignment/static/css/main.f72645f8.css",
+    "main.js": "/revalu_code_assignment/static/js/main.01c35169.js",
+    "static/js/453.3f26e255.chunk.js": "/revalu_code_assignment/static/js/453.3f26e255.chunk.js",
+    "static/media/vasuProfile.jpg": "/revalu_code_assignment/static/media/vasuProfile.39c090d74f42ef94d7f0.jpg",
+    "static/media/filter_vintage.svg": "/revalu_code_assignment/static/media/filter_vintage.60acd773510ca580165bf34dee1f424f.svg",
+    "index.html": "/revalu_code_assignment/index.html",
+    "static/media/cloud_download.svg": "/revalu_code_assignment/static/media/cloud_download.31c016f67d136b59d43e2cf33d1a2eda.svg",
+    "static/media/create_foldersvg.svg": "/revalu_code_assignment/static/media/create_foldersvg.c79f22efb99297808d555f633feaa435.svg",
+    "static/media/delete.svg": "/revalu_code_assignment/static/media/delete.5dea5c232eb4bd3492a73efcc498f876.svg",
+    "static/media/folder.svg": "/revalu_code_assignment/static/media/folder.10767809a1a8d7edd639598c6224c3bf.svg",
+    "static/media/keyboard_arrow_down.svg": "/revalu_code_assignment/static/media/keyboard_arrow_down.ba4b3f743d15db301277f5b4d8bcbd7c.svg",
+    "static/media/arrow_forward.svg": "/revalu_code_assignment/static/media/arrow_forward.e0b4b2859affcea3b96dc230a8d0f2aa.svg",
+    "main.f72645f8.css.map": "/revalu_code_assignment/static/css/main.f72645f8.css.map",
+    "main.01c35169.js.map": "/revalu_code_assignment/static/js/main.01c35169.js.map",
+    "453.3f26e255.chunk.js.map": "/revalu_code_assignment/static/js/453.3f26e255.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f72645f8.css",
-    "static/js/main.9008684f.js"
+    "static/js/main.01c35169.js"
   ]
 }
